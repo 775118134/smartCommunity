@@ -14,7 +14,7 @@
 
 ##### 演示视频
 
-[![Watch the video](assets/1.jpg)](assets/s.mp4)
+[![Watch the video](assets/1.jpg)](https://775118134.github.io/smartCommunity/assets/s.mp4)
 
 ###### 项目完成时间：2020年10月
 
