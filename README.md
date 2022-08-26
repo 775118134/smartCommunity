@@ -14,8 +14,6 @@
 
 ##### 演示视频
 
-<video src="assets/s.mp4" autoplay="autoplay" loop="loop"  muted="muted"  controls="controls" controlsList="nodownload" height="100%" width="100%" />
-
 [![Watch the video](assets/1.jpg)](assets/s.mp4)
 
 ###### 项目完成时间：2020年10月
